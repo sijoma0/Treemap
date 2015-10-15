@@ -1,0 +1,102 @@
+{
+  "MEDICINE": {
+    "children":"DERMATOLOGY",
+    "size":13
+  },
+  "MEDICINE": {
+    "children":"ENDOCRINOLOGY",
+    "size":24
+  },
+  "MEDICINE": {
+    "children":"GASTROENTEROLOGY",
+    "size":77
+  },
+  "MEDICINE": {
+    "children":"GENERAL INTERNAL",
+    "size":45
+  },
+  "MEDICINE": {
+    "children":"MEDICINE",
+    "size":44
+  },
+  "MEDICINE": {
+    "children":"GERIATRIC MEDICINE",
+    "size":53
+  },
+  "MEDICINE": {
+    "children":"INFECTIOUS DISEASES",
+    "size":23
+  },
+  "MEDICINE": {
+    "children":"MEDICAL ONCOLOGY",
+    "size":24
+  },
+  "MEDICINE": {
+    "children":"NEPHROLOGY",
+    "size":35
+  },
+  "MEDICINE": {
+    "children":"NEUROLOGY",
+    "size":63
+  },
+  "MEDICINE": {
+    "children":"OBSTETRICAL MEDICINE",
+    "size":23
+  },
+  "MEDICINE": {
+    "children":"PHYSICAL MEDICINE AND",
+    "size":46
+  },
+  "MEDICINE": {
+    "children":"REHABILITATION",
+    "size":23
+  },
+  "MEDICINE": {
+    "children":"RESPIROLOGY",
+    "size":24
+  },
+  "MEDICINE": {
+    "children":"RHEUMATOLOGY",
+    "size":35
+  },
+  "PSYCHIATRY": {
+    "children":"GENERAL",
+    "size":35
+  },
+  "PSYCHIATRY": {
+    "children":"GERIATRICS",
+    "size":32
+  },
+  "PSYCHIATRY": {
+    "children":"YOUTH",
+    "size":23
+  },
+  "SURGERY": {
+    "children":"CARDIAC SURGERY",
+    "size":37
+  },
+  "SURGERY": {
+    "children":"GENERAL SURGERY",
+    "size":24
+  },
+  "SURGERY": {
+    "children":"NEUROSURGERY",
+    "size":64
+  },
+  "SURGERY": {
+    "children":"ORTHOPAEDIC SURGERY",
+    "size":35
+  },
+  "SURGERY": {
+    "children":"PLASTIC SURGERY",
+    "size":55
+  },
+  "SURGERY": {
+    "children":"UROLOGY",
+    "size":56
+  },
+  "SURGERY": {
+    "children":"VASCULAR SURGERY",
+    "size":78
+  }
+}
