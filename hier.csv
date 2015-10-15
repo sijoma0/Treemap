@@ -1,9 +1,4 @@
-<<<<<<< Updated upstream
 Dept,Specialty,Value
-=======
-<<<<<<< Updated upstream
-thedad,name,value
->>>>>>> Stashed changes
 MEDICINE,DERMATOLOGY,13
 MEDICINE,ENDOCRINOLOGY,24
 MEDICINE,GASTROENTEROLOGY,77
@@ -56,4 +51,3 @@ SURGERY,ORTHOPAEDIC SURGERY,35
 SURGERY,PLASTIC SURGERY,55
 SURGERY,UROLOGY,56
 SURGERY,VASCULAR SURGERY,78
->>>>>>> Stashed changes
